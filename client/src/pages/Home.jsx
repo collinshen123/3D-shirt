@@ -33,7 +33,7 @@ const Home = () => {
           <motion.div className='home-content' {...headContainerAnimation}>
             <motion.div {...headTextAnimation}>
               <h1 className='head-text'>
-                LET'S <br className='x1:block hidden' /> DO IT.
+                Design a Shirt
               </h1>
             </motion.div>
             <motion.div
@@ -42,7 +42,7 @@ const Home = () => {
             >
 
               <p className="max-w-md font-normal text-gray-600 text-base">
-                Create your unique and exclusive shirt with our brand-new 3D customization tool. <strong>Unleash your imagination</strong>{" "} and define your own style.
+                Create your unique and exclusive shirt with 3D customization tool. <strong>Unleash your imagination</strong>{" "} and design your own style.
               </p>
 
               <CustomButton 
